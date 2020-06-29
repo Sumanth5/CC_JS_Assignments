@@ -1,1 +1,1 @@
-# CodecademyJSAssignment1
+# Mini Linter - Codecademy JS
